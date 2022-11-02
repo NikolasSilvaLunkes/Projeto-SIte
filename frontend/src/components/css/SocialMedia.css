@@ -1,0 +1,10 @@
+svg.linkButton{
+    color: white;
+    height: 120px;
+}
+
+div.SocButtonDiv{
+    display: table;
+    margin: 0 auto;
+    margin-top: 20px;
+}
